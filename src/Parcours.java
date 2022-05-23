@@ -1,5 +1,4 @@
-public class Depart extends Case{
-
+public class Parcours extends Case{
     @Override
     public void jouerCase(Joueur j) {
 
